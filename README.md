@@ -1,6 +1,6 @@
 # git demo
 
-git demo repository
+git demo repository 
 
 ## basic git command
 
